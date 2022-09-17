@@ -23,7 +23,6 @@ class App extends Component {
 export default App;//exporting App component
 
 
-
 //task
 //understand folder structure
 //display some data and try running React Application
@@ -33,12 +32,6 @@ export default App;//exporting App component
 
 
 
-
-//task
-//create an array of object and display data
-//create a object and update data(property) in it and display data
-//diffing algo
-//recoincilation process
 
 
 
